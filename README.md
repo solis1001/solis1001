@@ -4,12 +4,12 @@
 
 I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
 
-🔹 Full Stack Development — React/Next.js, TypeScript, Vue, Angular, PHP, Laravel and Node.js
-🔹 Web Scraping — Linkedin, Facebook, Tiktok, Youtube Scraping
-🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
-🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools  
-🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  
-🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot
+🔹 Full Stack Development — React/Next.js, TypeScript, Vue, Angular, PHP, Laravel and Node.js <br/>
+🔹 Web Scraping — Linkedin, Facebook, Tiktok, Youtube Scraping <br/>
+🔹 Mobile iOS Flutter — chat app, dating app, shop app etc <br/>
+🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools <br/>
+🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  <br/>
+🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot <br/>
 <br/>
 🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
 <br/>
